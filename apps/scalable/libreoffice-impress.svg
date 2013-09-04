@@ -15,7 +15,7 @@
    height="96"
    id="svg2408"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="libreoffice-draw.svg">
+   sodipodi:docname="libreoffice-impress.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="726"
+     inkscape:window-height="709"
      id="namedview114"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="5.4406367"
-     inkscape:cy="60.821967"
+     inkscape:zoom="16"
+     inkscape:cx="35.525327"
+     inkscape:cy="16.285267"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2408"
      showguides="true"
@@ -2502,7 +2502,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2545,7 +2545,7 @@
      id="text5457"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       id="tspan5459"></tspan></text>
+       id="tspan5459" /></text>
   <rect
      style="fill:#2d2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
      id="rect5481"
@@ -2576,8 +2576,8 @@
      x="33.72076"
      y="41.038807" />
   <path
-     style="fill:none;stroke:#5e2c0a;stroke-width:2.45199999999999996;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 42.947666,76.228421 c -0.06392,0.203104 3.995103,-4.833578 4.979949,-5.952655 l 5.125466,5.952655"
+     style="fill:none;stroke:#5e2c0a;stroke-width:2.4519999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="m 42.947666,76.228421 4.979949,-5.952655 5.125466,5.952655"
      id="path7118"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccc" />
