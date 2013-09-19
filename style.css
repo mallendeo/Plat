@@ -1,0 +1,157 @@
+body{
+	font-family: 'Lato', sans-serif;
+	background: #f0f0f0;
+	margin: 0;
+	padding: 40px 0;
+}
+
+header{
+	width: 100%;
+	text-align: center;
+	width: 960px;
+
+}
+
+header h1, header span{
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+header h1{
+	color: #9B9B9B;
+	font-weight: 300;
+	font-size: 7em;
+}
+
+header span{
+	color: #008AFF;
+	font-size: 1em;
+	margin-bottom: 20px;
+
+}
+
+a, a:visited{
+	text-decoration: none;
+	outline: 0;
+	border: 0;
+}
+
+.download{
+	padding: 10px 20px;
+	background: #3AAD44;
+	text-shadow: 0 1px 0 #444;
+	color: #fff;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.github{
+	position: absolute;
+	top: 40px;
+	right: -50px;
+	background: #222;
+	transform: rotate(45deg);
+	width: 220px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+
+}
+
+.github a{
+	color: #fff;
+	font-size: .8em;
+	text-decoration: none;
+	outline: 0;
+	border: 0;
+}
+
+.search{
+	display: inline-block;
+	border: 0;
+	border-bottom: 4px solid #008AFF;
+	background: transparent;
+	width: 100%;
+}
+
+.center{
+	margin: 0 auto;
+}
+
+.icon-container{
+	width: 960px;
+	padding-top: 40px;
+}
+
+.icon-container > div{
+	background-image: url(icons_sprite.png);
+	background-repeat: no-repeat;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	box-shadow: 0 2px 4px -2px rgba(0,0,0,.4);
+}
+
+.soon{
+	clear: both;
+	padding-top: 40px;
+	color: #444;
+}
+
+.sprite-amarok{ background-position: 0 0; width: 96px; height: 96px; } 
+.sprite-audacity{ background-position: 0 -101px; width: 96px; height: 96px; } 
+.sprite-blender{ background-position: 0 -202px; width: 96px; height: 96px; } 
+.sprite-brasero{ background-position: 0 -303px; width: 96px; height: 96px; } 
+.sprite-calculator{ background-position: 0 -404px; width: 96px; height: 96px; } 
+.sprite-camera-photo{ background-position: 0 -505px; width: 96px; height: 96px; } 
+.sprite-ccsm{ background-position: 0 -606px; width: 96px; height: 96px; } 
+.sprite-chromium-browser{ background-position: 0 -707px; width: 96px; height: 96px; } 
+.sprite-clementine{ background-position: 0 -808px; width: 96px; height: 96px; } 
+.sprite-clock{ background-position: 0 -909px; width: 96px; height: 96px; } 
+.sprite-computer{ background-position: 0 -1010px; width: 96px; height: 96px; } 
+.sprite-deluge{ background-position: 0 -1111px; width: 96px; height: 96px; } 
+.sprite-desura{ background-position: 0 -1212px; width: 96px; height: 96px; } 
+.sprite-drive-optical{ background-position: 0 -1313px; width: 96px; height: 96px; } 
+.sprite-drive-removable-media-usb{ background-position: 0 -1414px; width: 96px; height: 96px; } 
+.sprite-drive-removable-media{ background-position: 0 -1515px; width: 96px; height: 96px; } 
+.sprite-dropbox{ background-position: 0 -1616px; width: 96px; height: 96px; } 
+.sprite-eog{ background-position: 0 -1717px; width: 96px; height: 96px; } 
+.sprite-evernote{ background-position: 0 -1818px; width: 96px; height: 96px; } 
+.sprite-facebook{ background-position: 0 -1919px; width: 96px; height: 96px; } 
+.sprite-filezilla{ background-position: -101px 0; width: 96px; height: 96px; } 
+.sprite-firefox{ background-position: -101px -101px; width: 96px; height: 96px; } 
+.sprite-folder-desktop{ background-position: -101px -202px; width: 96px; height: 96px; } 
+.sprite-folder-documents{ background-position: -101px -303px; width: 96px; height: 96px; } 
+.sprite-folder-downloads{ background-position: -101px -404px; width: 96px; height: 96px; } 
+.sprite-folder-dropbox{ background-position: -101px -505px; width: 96px; height: 96px; } 
+.sprite-folder-github{ background-position: -101px -606px; width: 96px; height: 96px; } 
+.sprite-folder-music{ background-position: -101px -707px; width: 96px; height: 96px; } 
+.sprite-folder-pictures{ background-position: -101px -808px; width: 96px; height: 96px; } 
+.sprite-folder-videos{ background-position: -101px -909px; width: 96px; height: 96px; } 
+.sprite-folder{ background-position: -101px -1010px; width: 96px; height: 96px; } 
+.sprite-gimp{ background-position: -101px -1111px; width: 96px; height: 96px; } 
+.sprite-github{ background-position: -101px -1212px; width: 96px; height: 96px; } 
+.sprite-google-chrome{ background-position: -101px -1313px; width: 96px; height: 96px; } 
+.sprite-googleearth{ background-position: -101px -1414px; width: 96px; height: 96px; } 
+.sprite-googleplus{ background-position: -101px -1515px; width: 96px; height: 96px; } 
+.sprite-gparted{ background-position: -101px -1616px; width: 96px; height: 96px; } 
+.sprite-inkscape{ background-position: -101px -1717px; width: 96px; height: 96px; } 
+.sprite-libreoffice-base{ background-position: -101px -1818px; width: 96px; height: 96px; } 
+.sprite-libreoffice-calc{ background-position: -101px -1919px; width: 96px; height: 96px; } 
+.sprite-libreoffice-draw{ background-position: -202px 0; width: 96px; height: 96px; } 
+.sprite-libreoffice-impress{ background-position: -202px -101px; width: 96px; height: 96px; } 
+.sprite-libreoffice-main{ background-position: -202px -202px; width: 96px; height: 96px; } 
+.sprite-libreoffice-math{ background-position: -202px -303px; width: 96px; height: 96px; } 
+.sprite-libreoffice-writer{ background-position: -202px -404px; width: 96px; height: 96px; } 
+.sprite-midori{ background-position: -202px -505px; width: 96px; height: 96px; } 
+.sprite-mypaint{ background-position: -202px -606px; width: 96px; height: 96px; } 
+.sprite-network-wireless{ background-position: -202px -707px; width: 96px; height: 96px; } 
+.sprite-opera{ background-position: -202px -808px; width: 96px; height: 96px; } 
+.sprite-preferences-system-firewall{ background-position: -202px -909px; width: 96px; height: 96px; } 
+.sprite-rhythmbox{ background-position: -202px -1010px; width: 96px; height: 96px; } 
+.sprite-shotwell{ background-position: -202px -1111px; width: 96px; height: 96px; } 
+.sprite-softwarecenter{ background-position: -202px -1212px; width: 96px; height: 96px; } 
+.sprite-steam{ background-position: -202px -1313px; width: 96px; height: 96px; } 
+.sprite-terminal{ background-position: -202px -1414px; width: 96px; height: 96px; } 
+.sprite-twitter{ background-position: -202px -1515px; width: 96px; height: 96px; } 
+.sprite-update-manager{ background-position: -202px -1616px; width: 96px; height: 96px; } 
+.sprite-yast_joystick{ background-position: -202px -1717px; width: 96px; height: 96px; } 
