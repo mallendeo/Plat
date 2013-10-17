@@ -1,6 +1,7 @@
 [Icon Theme]
 Name=Plat
 Comment=Flat icon theme for the Gnome desktop
+Inherits=Faenza,gnome,hicolor
 
 Example=directory-x-normal
 
