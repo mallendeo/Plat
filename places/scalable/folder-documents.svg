@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1207"
-     inkscape:window-height="709"
+     inkscape:window-height="705"
      id="namedview78"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="16.578565"
-     inkscape:cy="24.457023"
+     inkscape:zoom="2"
+     inkscape:cx="-19.74563"
+     inkscape:cy="39.38818"
      inkscape:window-x="65"
-     inkscape:window-y="37"
+     inkscape:window-y="26"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2408"
      showguides="true"
@@ -1130,7 +1130,7 @@
   </g>
   <g
      id="g3307"
-     transform="translate(0.13258252,-0.22096917)">
+     transform="matrix(0,1,-1,0,96.22097,-0.13258167)">
     <g
        id="layer2-1"
        style="display:none">
@@ -1176,7 +1176,7 @@
   </g>
   <g
      id="g3183"
-     transform="matrix(1.0061842,0,0,1.0061842,-1.1556731,-0.9633085)">
+     transform="matrix(1.0061842,0,0,1.0061842,-14.155673,-15.713293)">
     <path
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"

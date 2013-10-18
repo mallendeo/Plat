@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1207"
-     inkscape:window-height="709"
+     inkscape:window-height="705"
      id="namedview78"
      showgrid="false"
-     inkscape:zoom="4.0000001"
-     inkscape:cx="37.112516"
-     inkscape:cy="42.774825"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="-23.875977"
+     inkscape:cy="42.744217"
      inkscape:window-x="65"
-     inkscape:window-y="37"
+     inkscape:window-y="26"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2408"
      showguides="true"
@@ -1507,7 +1507,7 @@
   </g>
   <g
      id="g3307"
-     transform="translate(0,-0.176775)">
+     transform="matrix(0,1,-1,0,96.088387,-0.0883875)">
     <g
        id="layer2-1"
        style="display:none">
@@ -1567,7 +1567,7 @@
   </g>
   <g
      id="g4070"
-     transform="matrix(1.0145624,0,0,1.0145624,-379.119,-476.60763)"
+     transform="matrix(0.86868589,0,0,0.86868589,-333.26303,-413.53116)"
      style="fill:#000000;fill-opacity:0.2745098">
     <path
        id="path4072"

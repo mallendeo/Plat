@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1207"
-     inkscape:window-height="709"
+     inkscape:window-height="705"
      id="namedview78"
      showgrid="false"
-     inkscape:zoom="4.0000002"
-     inkscape:cx="7.905978"
-     inkscape:cy="28.619074"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="-15.553789"
+     inkscape:cy="45.728787"
      inkscape:window-x="65"
-     inkscape:window-y="37"
+     inkscape:window-y="26"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2408"
      showguides="true"
@@ -2608,7 +2608,7 @@
   </g>
   <g
      id="g3307"
-     transform="translate(0.13258252,-0.22096917)">
+     transform="matrix(0,1,-1,0,96.22097,-0.13258167)">
     <g
        id="layer2-1"
        style="display:none">
@@ -2704,18 +2704,22 @@
        height="85"
        width="86" />
   </g>
-  <path
-     style="fill:#000000;fill-opacity:0.2745098;stroke:none"
-     d="m 40.079854,51.960703 0,21.459208 15.840297,-10.729603 z"
-     id="path4279"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccc" />
-  <rect
-     style="fill:none;stroke:#000000;stroke-width:2.53521132;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.2745098;stroke-dasharray:none"
-     id="rect5891"
-     width="65.915489"
-     height="42.46479"
-     x="15.042255"
-     y="41.601234"
-     ry="2.4941428" />
+  <g
+     id="g5151"
+     transform="matrix(0.68888892,0,0,0.68888892,1.4333362,4.7146088)">
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4279"
+       d="m 40.079854,51.960703 0,21.459208 15.840297,-10.729603 z"
+       style="fill:#000000;fill-opacity:0.2745098;stroke:none" />
+    <rect
+       ry="2.4941428"
+       y="41.601234"
+       x="15.042255"
+       height="42.46479"
+       width="65.915489"
+       id="rect5891"
+       style="fill:none;stroke:#000000;stroke-width:2.53521132;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.2745098;stroke-dasharray:none" />
+  </g>
 </svg>
